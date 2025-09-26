@@ -1,0 +1,15 @@
+Chave da item,Criado,Resolvido,Tipo de item,Status,Campo personalizado (SPRINT_DATA),Campo personalizado (REVIEW_DATA),Campo personalizado (ANALISE_DATA),Campo personalizado (AGUARDANDO_PRIORIZAÇÃO_DATA)
+PL-135,20/ago/25 8:51 AM,25/ago/25 2:30 PM,Bug,DONE,18/ago/25 9:00 AM,22/ago/25 5:00 PM,15/ago/25 10:00 AM,17/ago/25 3:00 PM
+PL-136,21/ago/25 9:15 AM,23/ago/25 4:45 PM,Feature,DONE,19/ago/25 8:30 AM,21/ago/25 6:00 PM,16/ago/25 11:00 AM,18/ago/25 2:00 PM
+PL-137,22/ago/25 10:30 AM,28/ago/25 11:20 AM,Bug,DONE,20/ago/25 9:15 AM,24/ago/25 4:30 PM,17/ago/25 9:30 AM,19/ago/25 1:45 PM
+PL-138,23/ago/25 2:20 PM,26/ago/25 9:10 AM,Task,DONE,21/ago/25 10:00 AM,23/ago/25 3:00 PM,18/ago/25 2:00 PM,20/ago/25 4:30 PM
+PL-139,24/ago/25 11:45 AM,30/ago/25 3:15 PM,Feature,DONE,22/ago/25 8:45 AM,26/ago/25 5:15 PM,19/ago/25 1:30 PM,21/ago/25 11:00 AM
+PL-140,25/ago/25 1:30 PM,27/ago/25 10:45 AM,Bug,DONE,23/ago/25 9:30 AM,25/ago/25 4:45 PM,20/ago/25 3:15 PM,22/ago/25 10:30 AM
+PL-141,26/ago/25 3:45 PM,29/ago/25 1:20 PM,Task,DONE,24/ago/25 10:15 AM,26/ago/25 2:30 PM,21/ago/25 4:00 PM,23/ago/25 9:15 AM
+PL-142,27/ago/25 8:20 AM,01/set/25 4:30 PM,Feature,DONE,25/ago/25 9:00 AM,29/ago/25 6:00 PM,22/ago/25 11:30 AM,24/ago/25 1:15 PM
+BL-001,15/jul/25 9:00 AM,,Bug,BACKLOG,,,12/jul/25 2:00 PM,14/jul/25 10:30 AM
+BL-002,20/jul/25 2:30 PM,,Feature,BACKLOG,,,18/jul/25 11:15 AM,19/jul/25 4:45 PM
+BL-003,10/jun/25 10:15 AM,,Task,BACKLOG,,,08/jun/25 3:30 PM,09/jun/25 1:20 PM
+BL-004,05/mai/25 4:45 PM,,Bug,BACKLOG,,,03/mai/25 9:45 AM,04/mai/25 2:15 PM
+BL-005,25/jul/25 11:30 AM,,Feature,BACKLOG,,,23/jul/25 8:20 AM,24/jul/25 3:50 PM
+
