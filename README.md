@@ -1,4 +1,4 @@
-# Analisador de Lead Time
+# Métricas
 
 Uma aplicação React avançada para análise de métricas de tempo baseada em dados CSV, com interface organizada em abas e suporte a múltiplos tipos de análise.
 
