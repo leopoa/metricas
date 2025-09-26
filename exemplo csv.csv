@@ -1,0 +1,20 @@
+Chave,Criado,Resolvido,Tipo,Status,Area,Analise,Aprovação,Refinamento,Priorização,Sprint,Review,Release,Estimativa,Bloqueio
+HS-001,20/jun/25 3:45 PM,28/jul/25 12:15 PM,historia,DONE,financeiro,21/jun/25 3:45 PM,25/jun/25 3:45 PM,27/jun/25 3:45 PM,29/jun/25 3:45 PM,01/jul/25 3:45 PM,05/jul/25 3:45 PM,20/jul/25 3:45 PM,57600,DATA[2025-07-06] STATUS[REVIEW] DATA[2025-07-06] STATUS[REVIEW] DATA[2025-07-08] STATUS[REVIEW] DATA[2025-07-10] STATUS[REVIEW] DATA[2025-07-15] STATUS[REVIEW] DATA[2025-07-19] STATUS[REVIEW]
+HS-002,02/jun/25 3:45 PM,29/jul/25 3:45 PM,historia,DONE,financeiro,10/jun/25 3:45 PM,12/jun/25 3:45 PM,14/jun/25 3:45 PM,16/jun/25 3:45 PM,03/jul/25 3:45 PM,09/jul/25 3:45 PM,10/jul/25 3:45 PM,,
+HS-003,20/jun/25 3:45 PM,28/jul/25 12:15 PM,melhoria,DONE,financeiro,21/jun/25 3:45 PM,25/jun/25 3:45 PM,27/jun/25 3:45 PM,29/jun/25 3:45 PM,10/jul/25 3:45 PM,15/jul/25 3:45 PM,20/jul/25 3:45 PM,144000,DATA[2025-07-16] STATUS[REVIEW] DATA[2025-07-18] STATUS[REVIEW]
+HS-004,02/jun/25 3:45 PM,29/jul/25 3:45 PM,melhoria,DONE,financeiro,15/jun/25 3:45 PM,17/jun/25 3:45 PM,19/jun/25 3:45 PM,22/jun/25 3:45 PM,11/jul/25 3:45 PM,13/jul/25 3:45 PM,22/jul/25 3:45 PM,,
+HS-005,20/jun/25 3:45 PM,28/jul/25 12:15 PM,incidente,DONE,financeiro,22/jun/25 3:45 PM,25/jun/25 3:45 PM,27/jun/25 3:45 PM,29/jun/25 3:45 PM,13/jul/25 3:45 PM,17/jul/25 3:45 PM,23/jul/25 3:45 PM,,
+HS-006,20/jun/25 3:45 PM,29/jul/25 3:45 PM,incidente,DONE,financeiro,21/jun/25 3:45 PM,22/jun/25 3:45 PM,24/jun/25 3:45 PM,26/jun/25 3:45 PM,14/jul/25 3:45 PM,15/jul/25 3:45 PM,26/jul/25 3:45 PM,,
+HS-007,10/jul/25 3:45 PM,29/jul/25 3:45 PM,incidente,DONE,resseguro,12/jul/25 3:45 PM,14/jul/25 3:45 PM,16/jul/25 3:45 PM,18/jul/25 3:45 PM,20/jul/25 3:45 PM,20/jul/25 3:45 PM,24/jul/25 3:45 PM,,
+HS-008,20/jul/25 3:45 PM,29/jul/25 3:45 PM,historia,DONE,resseguro,21/jul/25 3:45 PM,22/jul/25 3:45 PM,23/jul/25 3:45 PM,24/jul/25 3:45 PM,12/jul/25 3:45 PM,15/jul/25 3:45 PM,15/jul/25 3:45 PM,,
+HS-009,20/jan/25 3:45 PM,29/jul/25 3:45 PM,melhoria,DONE,resseguro,22/fev/25 3:45 PM,22/mar/25 3:45 PM,25/abr/25 3:45 PM,27/mai/25 3:45 PM,28/mai/25 3:45 PM,15/jun/25 3:45 PM,25/jun/25 3:45 PM,,
+HS-010,20/mai/25 3:45 PM,29/jul/25 3:45 PM,melhoria,DONE,resseguro,22/mai/25 3:45 PM,24/mai/25 3:45 PM,26/mai/25 3:45 PM,22/jun/25 3:45 PM,25/jun/25 3:45 PM,27/jun/25 3:45 PM,29/jun/25 3:45 PM,,
+HS-011,20/jan/25 3:45 PM,29/jul/25 3:45 PM,melhoria,REVIEW,resseguro,22/fev/25 3:45 PM,22/mar/25 3:45 PM,25/abr/25 3:45 PM,27/mai/25 3:45 PM,28/mai/25 3:45 PM,15/jun/25 3:45 PM,,,
+HS-012,20/mai/25 3:45 PM,29/jul/25 3:45 PM,melhoria,REVIEW,resseguro,22/mai/25 3:45 PM,24/mai/25 3:45 PM,26/mai/25 3:45 PM,22/jun/25 3:45 PM,25/jun/25 3:45 PM,27/jun/25 3:45 PM,,,
+HS-013,20/mai/25 3:45 PM,29/jul/25 3:45 PM,melhoria,REVIEW,resseguro,22/mai/25 3:45 PM,24/mai/25 3:45 PM,26/mai/25 3:45 PM,22/jun/25 3:45 PM,25/jun/25 3:45 PM,27/jun/25 3:45 PM,,,
+HS-014,22/mai/25 3:45 PM,,historia,BACKLOG,resseguro,,,,,,,,,
+HS-015,25/jun/25 3:45 PM,,historia,BACKLOG,resseguro,,,,,,,,,
+HS-016,15/ago/25 3:45 PM,,melhoria,BACKLOG,resseguro,,,,,,,,,
+HS-017,10/mai/25 3:45 PM,,historia,ANALISE,resseguro,25/mai/25 3:45 PM,,,,,,,544000,DATA[2025-05-27] STATUS[ANALISE] 
+HS-018,05/jun/25 3:45 PM,,historia,ANALISE,resseguro,29/jun/25 3:45 PM,,,,,,,1144000,DATA[2025-07-05] STATUS[ANALISE] DATA[2025-07-10] STATUS[ANALISE] 
+HS-019,25/ago/25 3:45 PM,,melhoria,ANALISE,resseguro,29/ago/25 3:45 PM,,,,,,,,
