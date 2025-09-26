@@ -43,6 +43,7 @@ Uma aplicação React avançada para análise de métricas de tempo baseada em d
 2. **Acessar no navegador**: http://localhost:5174
 
 3. **Fazer upload do CSV**: Clique em "Selecione o arquivo CSV" e escolha seu arquivo
+- Exemplo: https://github.com/leopoa/metricas/blob/main/exemplo%20csv.csv
 
 ## Tecnologias utilizadas
 
